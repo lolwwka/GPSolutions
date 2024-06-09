@@ -3,6 +3,7 @@ package org.example.gpsolutions.dto.request;
 import io.swagger.v3.oas.annotations.media.Schema;
 
 import java.util.Set;
+
 @Schema(description = "Модель для фильтрации отелей по параметрам")
 public class SearchDto {
     @Schema(description = "Параметр город для фильтрации", example = "Minsk")

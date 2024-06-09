@@ -1,8 +1,6 @@
 package org.example.gpsolutions.dto.request;
 
 import io.swagger.v3.oas.annotations.media.Schema;
-import org.example.gpsolutions.entity.Address;
-import org.example.gpsolutions.entity.ArrivalTime;
 
 import java.util.Map;
 
